@@ -26,9 +26,10 @@ POSTMARK_TOKEN=YOUR-SERVER-KEY-HERE
 ```
 
 ## Ref
-- **[Postmark Driver](https://laravel.com/docs/9.x/mail)**
+- **[Laravel Postmark Driver](https://laravel.com/docs/9.x/mail)**
 - **[How to send transactional emails with Laravel PHP framework](https://postmarkapp.com/blog/how-to-send-transactional-emails-with-laravel-php-framework)**
 - **[Postmark setup Domain & DNS](https://www.youtube.com/watch?v=HpdfubMKNOw)**
+- **[Postmark Developer](https://postmarkapp.com/developer)**
 
 ## License
 
